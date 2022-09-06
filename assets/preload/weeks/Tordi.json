@@ -1,0 +1,31 @@
+{
+	"storyName": "fortnite tord",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "tor",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"royale",
+			"tord",
+			[
+				215,
+				200,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "week1"
+}
